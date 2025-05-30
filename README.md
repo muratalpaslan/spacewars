@@ -2,6 +2,18 @@
 
 A dark theme inspired by Star Wars, designed to provide a comfortable coding experience with support for all programming languages.
 
+## Preview
+
+### Dark Theme
+![Space Wars Theme Preview 1](images/theme-screenshot-1.png)
+*Main editor view with JavaScript code*
+
+![Space Wars Theme Preview 2](images/theme-screenshot-2.png)
+*File explorer and sidebar view*
+
+![Space Wars Theme Preview 3](images/theme-screenshot-3.png)
+*Integrated terminal and editor view*
+
 ## Features
 
 - 🌙 Dark theme optimized for long coding sessions
