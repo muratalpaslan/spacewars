@@ -1,0 +1,44 @@
+{
+  "name": "spacewars-theme",
+  "displayName": "Space Wars Theme",
+  "description": "A dark theme inspired by Star Wars with support for all programming languages",
+  "version": "1.0.0",
+  "publisher": "muratalpaslan",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space Wars Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starwars-dark-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muratalpaslan/spacewars-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "star wars",
+    "space",
+    "sci-fi"
+  ],
+  "author": "Murat Alpaslan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muratalpaslan/spacewars-theme/issues"
+  },
+  "homepage": "https://github.com/muratalpaslan/spacewars-theme#readme",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#0B0B1A",
+    "theme": "dark"
+  }
+} 
